@@ -19,12 +19,15 @@ body {
   height: 100%;
   background-color: #000000;
 }
+
 body {
+  
   color: #fff;
   text-align: center;
   font-family: Palatino;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
+
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
